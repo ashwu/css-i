@@ -1,3 +1,41 @@
-p {color:red; font-family: Franklin Gothic Medium; font-size:15px}
-img {height: 1000px; width:1350px}
-ul {list-style-type: square}
+p{
+	color:red; 
+	font-family:Franklin Gothic Medium; 
+	font-size:20px
+
+}
+
+ul{
+	color:red;
+	font-family:Franklin Gothic Book;
+	font-size: 15px;
+}
+
+blockquote{
+	color:green;
+	font-family: Stag Thin;
+	font-size: 40px
+}
+
+img{
+	height:1000px; 
+	width:1350px
+}
+
+ul{
+	list-style-type:square
+}
+
+#not-red{
+	color:blue
+}
+
+#diff-size{
+	height:1350px;
+	width:2400px
+}
+
+#diff-size2{
+	height:450px;
+	width:600px
+}
